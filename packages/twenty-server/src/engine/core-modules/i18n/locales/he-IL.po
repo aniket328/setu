@@ -12052,7 +12052,7 @@ msgstr "למפתח API זה לא הוקצה תפקיד."
 #: src/engine/core-modules/application/application-registration/application-registration.exception.ts
 #: src/engine/core-modules/application/application.exception.ts
 msgid "This app requires a newer version of the Twenty server. Please upgrade your server or use a compatible app version."
-msgstr "אפליקציה זו דורשת גרסה חדשה יותר של שרת Twenty. אנא שדרגו את השרת שלכם או השתמשו בגרסת אפליקציה תואמת."
+msgstr "אפליקציה זו דורשת גרסה חדשה יותר של שרת Setu. אנא שדרגו את השרת שלכם או השתמשו בגרסת אפליקציה תואמת."
 
 #. js-lingui-id: y2nks/
 #: src/engine/core-modules/application/application.exception.ts

@@ -26,11 +26,11 @@ export const generateTwentyIconDictionaryMarkdown = () => {
     ].join('\n');
   }).join('\n\n');
 
-  return `# Twenty Icon Dictionary
+  return `# Setu Icon Dictionary
 
 <!-- This file is generated. Edit constants/TwentyIconDictionary.ts, then run: npx nx generateIconDictionary twenty-ui -->
 
-This is the canonical engineering reference for icons that represent Twenty product concepts. The [Figma dictionary](${TWENTY_ICON_DICTIONARY_FIGMA_URL}) is the visual reference; the typed manifest in [\`constants/TwentyIconDictionary.ts\`](./constants/TwentyIconDictionary.ts) is the code source of truth.
+This is the canonical engineering reference for icons that represent Setu product concepts. The [Figma dictionary](${TWENTY_ICON_DICTIONARY_FIGMA_URL}) is the visual reference; the typed manifest in [\`constants/TwentyIconDictionary.ts\`](./constants/TwentyIconDictionary.ts) is the code source of truth.
 
 ## Selection rules
 

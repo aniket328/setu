@@ -1,5 +1,5 @@
 // Python helper that gets prepended to user code for MCP access
-export const TWENTY_MCP_HELPER = `# Auto-injected Twenty MCP helper - provides access to Twenty tools
+export const TWENTY_MCP_HELPER = `# Auto-injected Setu MCP helper - provides access to Setu tools
 import os
 import json
 
@@ -10,7 +10,7 @@ except ImportError:
     _REQUESTS_AVAILABLE = False
 
 class TwentyMCP:
-    """Helper for calling Twenty tools from sandboxed code.
+    """Helper for calling Setu tools from sandboxed code.
 
     Two categories of tools exist behind /mcp:
 
@@ -50,7 +50,7 @@ class TwentyMCP:
 
     def call_tool(self, name: str, arguments: dict = None):
         """
-        Call any Twenty tool by name.
+        Call any Setu tool by name.
 
         Catalog tools (find_many_companies, create_one_person, …) are routed
         through execute_tool. MCP-native tools are called directly.
@@ -69,7 +69,7 @@ class TwentyMCP:
             # companies == {'records': [...], 'count': '5'}
         """
         if not self._available:
-            raise RuntimeError('Twenty MCP bridge not available. Missing requests library or credentials.')
+            raise RuntimeError('Setu MCP bridge not available. Missing requests library or credentials.')
 
         if name in self._MCP_NATIVE_TOOLS:
             return self._raw_mcp_call(name, arguments)

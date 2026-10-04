@@ -250,7 +250,7 @@ export class WorkspaceMigrationFlatEntityMapsService {
 
     if (!isDefined(twentyStandardApplicationId)) {
       throw new FlatEntityMapsException(
-        'Twenty standard application not found in workspace',
+        'Setu standard application not found in workspace',
         FlatEntityMapsExceptionCode.ENTITY_NOT_FOUND,
       );
     }

@@ -15,7 +15,7 @@ export const renderFrontendHtml = (
 
   return template
     .replace(
-      /<!-- BEGIN: Twenty Config -->[\s\S]*?<!-- END: Twenty Config -->/,
+      /<!-- BEGIN: Setu Config -->[\s\S]*?<!-- END: Setu Config -->/,
       '<script id="twenty-env-config">window._env_ = {};</script>',
     )
     .replace(

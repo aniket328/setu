@@ -130,7 +130,7 @@ msgstr "היי {userName},"
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
 msgid "If Twenty is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
-msgstr "אם Twenty מתאימה לך, אתה מסודר — אין צורך לעשות דבר. אם זה לא מתאים, תוכל לבטל בלחיצה אחת לפני כן ולא תחויב."
+msgstr "אם Setu מתאימה לך, אתה מסודר — אין צורך לעשות דבר. אם זה לא מתאים, תוכל לבטל בלחיצה אחת לפני כן ולא תחויב."
 
 #. js-lingui-explicit-id
 #: src/emails/server-admin-access-changed.email.tsx
@@ -206,7 +206,7 @@ msgstr "הפעל מחדש את מרחב העבודה"
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
 msgid "Read Twenty's user guide"
-msgstr "קרא את המדריך למשתמש של Twenty"
+msgstr "קרא את המדריך למשתמש של Setu"
 
 #. js-lingui-explicit-id
 #: src/emails/password-reset-link.email.tsx
@@ -287,17 +287,17 @@ msgstr "אמת דוא\"ל"
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
 msgid "Visit Twenty's developer documentation"
-msgstr "בקר בתיעוד המפתחים של Twenty"
+msgstr "בקר בתיעוד המפתחים של Setu"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
 msgid "Visit Twenty's GitHub repository"
-msgstr "בקר במאגר ה-GitHub של Twenty"
+msgstr "בקר במאגר ה-GitHub של Setu"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
 msgid "Visit Twenty's website"
-msgstr "בקר באתר של Twenty"
+msgstr "בקר באתר של Setu"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
@@ -312,7 +312,7 @@ msgstr "אתר אינטרנט"
 #. js-lingui-explicit-id
 #: src/components/WhatIsTwenty.tsx
 msgid "What is Twenty?"
-msgstr "מה זה Twenty?"
+msgstr "מה זה Setu?"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-subscription-renewing.email.tsx

@@ -570,7 +570,7 @@ export const prefillWorkflows = async (
             icon: 'IconVariable',
             type: 'string',
             label: 'url',
-            value: 'https://twenty.com',
+            value: 'https://cwistudio.in',
             isLeaf: true,
           },
           domain: {

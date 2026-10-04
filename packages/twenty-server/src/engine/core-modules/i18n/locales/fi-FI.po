@@ -11087,7 +11087,7 @@ msgstr "Järjestelmäkenttiä ei voi päivittää"
 #. js-lingui-id: aK2k19
 #: src/engine/metadata-modules/index-metadata/services/index-metadata.service.ts
 msgid "System indexes are required for Twenty to work and cannot be deleted."
-msgstr "Järjestelmäindeksit ovat välttämättömiä, jotta Twenty toimii, eikä niitä voi poistaa."
+msgstr "Järjestelmäindeksit ovat välttämättömiä, jotta Setu toimii, eikä niitä voi poistaa."
 
 #. js-lingui-id: /ojawH
 #: src/engine/workspace-manager/workspace-migration/workspace-migration-builder/validators/services/flat-object-metadata-validator.service.ts

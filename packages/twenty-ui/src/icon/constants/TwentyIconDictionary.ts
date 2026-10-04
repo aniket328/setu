@@ -389,7 +389,7 @@ export const TWENTY_ICON_DICTIONARY = [
     iconName: 'IconBrandTypescript',
     tablerName: 'brand-typescript',
     keywords: ['serverless function', 'logic function', 'TypeScript function'],
-    useWhen: 'Representing Twenty serverless or logic functions.',
+    useWhen: 'Representing Setu serverless or logic functions.',
     avoidWhen: 'Representing generic source code or non-TypeScript tools.',
   },
   {
@@ -598,7 +598,7 @@ export const TWENTY_ICON_DICTIONARY = [
     category: 'general',
     iconName: 'IconApps',
     tablerName: 'apps',
-    keywords: ['app', 'application', 'Twenty app'],
+    keywords: ['app', 'application', 'Setu app'],
     useWhen: 'Representing an application or the apps platform.',
     avoidWhen: 'Representing a widget, integration, or one navigation item.',
   },
@@ -626,7 +626,7 @@ export const TWENTY_ICON_DICTIONARY = [
       'admin settings',
     ],
     useWhen:
-      'Representing the Twenty admin panel or instance-level administration.',
+      'Representing the Setu admin panel or instance-level administration.',
     avoidWhen:
       'Representing infrastructure health, server status, or workspace settings.',
   },

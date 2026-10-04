@@ -1,2 +1,2 @@
 export const DEFAULT_WORKSPACE_LOGO =
-  'https://twentyhq.github.io/placeholder-images/workspaces/twenty-logo.png';
+  'https://setu.cwistudio.in/images/icons/android/android-launchericon-192-192.png';

@@ -1748,27 +1748,27 @@ msgstr ""
 #. js-lingui-id: FKGcEL
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Add the Twenty MCP server as a remote context server in Zed."
-msgstr "Lisää Twenty MCP -palvelin etäisenä kontekstipalvelimena Zedissä."
+msgstr "Lisää Setu MCP -palvelin etäisenä kontekstipalvelimena Zedissä."
 
 #. js-lingui-id: iA2nHX
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Add the Twenty MCP server from Augment Code settings."
-msgstr "Lisää Twenty MCP -palvelin Augment Code -asetuksista."
+msgstr "Lisää Setu MCP -palvelin Augment Code -asetuksista."
 
 #. js-lingui-id: l+NzAk
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
-msgstr "Lisää Twenty MCP -palvelin Raycastin MCP-komennoista tai -asetuksista."
+msgstr "Lisää Setu MCP -palvelin Raycastin MCP-komennoista tai -asetuksista."
 
 #. js-lingui-id: j6G/yI
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Add the Twenty MCP server in Gemini CLI settings."
-msgstr "Lisää Twenty MCP -palvelin Gemini CLI -asetuksissa."
+msgstr "Lisää Setu MCP -palvelin Gemini CLI -asetuksissa."
 
 #. js-lingui-id: /OyhlM
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Add the Twenty MCP server to your LibreChat configuration file."
-msgstr "Lisää Twenty MCP -palvelin LibreChat-konfiguraatiotiedostoosi."
+msgstr "Lisää Setu MCP -palvelin LibreChat-konfiguraatiotiedostoosi."
 
 #. js-lingui-id: K0DXoj
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
@@ -1778,7 +1778,7 @@ msgstr "Lisää Twenty-etäpalvelin LM Studion asennuslinkillä."
 #. js-lingui-id: BTFMKE
 #: src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx
 msgid "Add these records at your DNS provider. Twenty checks them automatically."
-msgstr "Lisää nämä tietueet DNS-palveluntarjoajallesi. Twenty tarkistaa ne automaattisesti."
+msgstr "Lisää nämä tietueet DNS-palveluntarjoajallesi. Setu tarkistaa ne automaattisesti."
 
 #. js-lingui-id: 5+ttxv
 #: src/modules/settings/accounts/components/SettingsAccountsBlocklistInput.tsx
@@ -1798,7 +1798,7 @@ msgstr "Lisää aihe"
 #. js-lingui-id: 4D/zWv
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Add Twenty as a Streamable HTTP extension in Goose."
-msgstr "Lisää Twenty Gooseen Streamable HTTP -laajennuksena."
+msgstr "Lisää Setu Gooseen Streamable HTTP -laajennuksena."
 
 #. js-lingui-id: XnwceV
 #: src/pages/settings/applications/components/SettingsApplicationRegistrationRedirectURIsInput.tsx
@@ -3473,7 +3473,7 @@ msgstr "Asenna tämä sovellus automaattisesti jokaiseen uuteen työtilaan"
 #. js-lingui-id: MHsVk5
 #: src/pages/settings/ai/components/SettingsAiModelTiersPreview.tsx
 msgid "Automatically selected by Twenty for this mode."
-msgstr "Twenty valitsee automaattisesti tälle tilalle."
+msgstr "Setu valitsee automaattisesti tälle tilalle."
 
 #. js-lingui-id: XFGV21
 #: src/pages/settings/applications/tabs/SettingsApplicationAutoUpdateSection.tsx
@@ -3893,7 +3893,7 @@ msgstr "tekijä: {author}"
 #. js-lingui-id: 8Pfllj
 #: src/modules/auth/sign-in-up/components/FooterNote.tsx
 msgid "By using Twenty, you agree to the"
-msgstr "Twenty:tä käyttäessäsi hyväksyt"
+msgstr "Setu:tä käyttäessäsi hyväksyt"
 
 #. js-lingui-id: Yx41df
 #: src/modules/auth/sign-in-up/components/FooterNote.tsx
@@ -5240,12 +5240,12 @@ msgstr "Määritä etäpalvelin Amazon Q Developerin MCP-asetuksissa."
 #. js-lingui-id: g1/8jH
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Configure the Twenty MCP server manually in Cascade."
-msgstr "Määritä Twenty MCP -palvelin manuaalisesti Cascadessa."
+msgstr "Määritä Setu MCP -palvelin manuaalisesti Cascadessa."
 
 #. js-lingui-id: XiyvRh
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Configure the Twenty MCP server manually in Cline."
-msgstr "Määritä Twenty MCP -palvelin manuaalisesti Clinessä."
+msgstr "Määritä Setu MCP -palvelin manuaalisesti Clinessä."
 
 #. js-lingui-id: qA9AGQ
 #: src/modules/settings/domains/components/SettingsDomainRecords.tsx
@@ -9096,7 +9096,7 @@ msgstr "Virhe suunnitelman peruutuksessa."
 #. js-lingui-id: QmR+2U
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
 msgid "Error while ending trial period. Please contact Twenty team."
-msgstr "Virhe kokeilujakson päättämisessä. Ota yhteyttä Twenty -tiimiin."
+msgstr "Virhe kokeilujakson päättämisessä. Ota yhteyttä Setu -tiimiin."
 
 #. js-lingui-id: 5g78zo
 #: src/pages/settings/members/SettingsWorkspaceMember.tsx
@@ -11318,7 +11318,7 @@ msgstr ""
 "npx create-twenty-app@latest my-twenty-app\n"
 "```\n"
 "\n"
-"Katso täydellinen läpikäynti [Aloitusoppaasta](https://twenty.com/developers/extend/apps/getting-started) ja kohdassa [Sovellusten rakentaminen](https://twenty.com/developers/extend/apps/building) kerrotaan `defineApplication` / `defineEntity` API:ista."
+"Katso täydellinen läpikäynti [Aloitusoppaasta](https://cwistudio.in/extend/apps/getting-started) ja kohdassa [Sovellusten rakentaminen](https://cwistudio.in/extend/apps/building) kerrotaan `defineApplication` / `defineEntity` API:ista."
 
 #. js-lingui-id: yY8wAv
 #: src/modules/workflow/workflow-steps/workflow-actions/delay-actions/components/WorkflowEditActionDelay.tsx
@@ -16085,7 +16085,7 @@ msgstr "Yksi tai useampi suodatin viittaa poissa käytöstä oleviin tai poistet
 #. js-lingui-id: 1WZTTl
 #: src/pages/settings/enterprise/SettingsEnterprise.tsx
 msgid "One subscription provides one Organization key that powers one production instance and one potential staging or test instance. To run a staging or test environment, install Twenty on a second server, activate it with this same Organization key, then register that server as a development instance. Development instances unlock premium features without extra billing and do not count toward your production seats."
-msgstr "Yksi tilaus sisältää yhden Organisaatio-avaimen, joka tukee yhtä tuotantoinstanssia sekä yhtä mahdollista esituotanto- tai testausinstanssia. Jos haluat käyttää esituotanto- tai testausympäristöä, asenna Twenty toiselle palvelimelle, aktivoi se samalla Organisaatio-avaimella ja rekisteröi kyseinen palvelin kehitysinstanssiksi. Kehitysinstanssit avaavat premium-ominaisuudet ilman lisälaskutusta eivätkä kuluta tuotantopaikkoja."
+msgstr "Yksi tilaus sisältää yhden Organisaatio-avaimen, joka tukee yhtä tuotantoinstanssia sekä yhtä mahdollista esituotanto- tai testausinstanssia. Jos haluat käyttää esituotanto- tai testausympäristöä, asenna Setu toiselle palvelimelle, aktivoi se samalla Organisaatio-avaimella ja rekisteröi kyseinen palvelin kehitysinstanssiksi. Kehitysinstanssit avaavat premium-ominaisuudet ilman lisälaskutusta eivätkä kuluta tuotantopaikkoja."
 
 #. js-lingui-id: JEtonz
 #: src/modules/settings/event-logs/components/SettingsLogs.tsx
@@ -16664,7 +16664,7 @@ msgstr "Sivun nimi"
 #. js-lingui-id: NRvxzv
 #: src/pages/not-found/NotFound.tsx
 msgid "Page Not Found | Twenty"
-msgstr "Sivua ei löydy | Twenty"
+msgstr "Sivua ei löydy | Setu"
 
 #. js-lingui-id: oIhFvf
 #: src/modules/side-panel/pages/email-block-settings/components/EmailPageStyleSection.tsx
@@ -21579,7 +21579,7 @@ msgstr ""
 "\n"
 "#### Rakenna oma sovellus\n"
 "\n"
-"Laajenna Twentyä omilla objekteilla, kentillä, logiikkafunktioilla tai AI-taidoilla. Luo uuden sovelluksen runko yhdellä komennolla:\n"
+"Laajenna Setuä omilla objekteilla, kentillä, logiikkafunktioilla tai AI-taidoilla. Luo uuden sovelluksen runko yhdellä komennolla:\n"
 "\n"
 "```bash\n"
 "npx create-twenty-app@latest my-twenty-app\n"
@@ -21592,7 +21592,7 @@ msgstr ""
 "yarn twenty dev\n"
 "```\n"
 "\n"
-"Katso täydellinen läpikäynti [Aloitusoppaasta](https://twenty.com/developers/extend/apps/getting-started) ja kohdassa [Sovellusten rakentaminen](https://twenty.com/developers/extend/apps/building) kerrotaan `defineApplication` / `defineEntity` API:ista."
+"Katso täydellinen läpikäynti [Aloitusoppaasta](https://cwistudio.in/extend/apps/getting-started) ja kohdassa [Sovellusten rakentaminen](https://cwistudio.in/extend/apps/building) kerrotaan `defineApplication` / `defineEntity` API:ista."
 
 #. js-lingui-id: VsxjzF
 #: src/modules/page-layout/widgets/call-recording/utils/getCallRecordingStatusDisplayConfiguration.ts
@@ -22837,7 +22837,7 @@ msgstr "Twenty-kentät"
 #. js-lingui-id: pNo8xt
 #: src/pages/settings/ai/components/SettingsAiModelsTab.tsx
 msgid "Twenty fills each level with the best model that meets your requirements"
-msgstr "Twenty täyttää jokaisen tason parhaalla vaatimuksiasi vastaavalla mallilla"
+msgstr "Setu täyttää jokaisen tason parhaalla vaatimuksiasi vastaavalla mallilla"
 
 #. js-lingui-id: YIjS4q
 #: src/modules/ai/components/SettingsAgentModelCapabilities.tsx

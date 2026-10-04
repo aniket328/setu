@@ -198,7 +198,7 @@ msgstr "Ձեռքով ընտրված մարդկանց լսարան"
 #. js-lingui-id: TF/ZV2
 #: src/engine/core-modules/billing/reminders/services/billing-reminder.service.ts
 msgid "A heads up before your Twenty trial ends"
-msgstr "Ծանուցում մինչև ձեր Twenty փորձաշրջանի ավարտը"
+msgstr "Ծանուցում մինչև ձեր Setu փորձաշրջանի ավարտը"
 
 #. js-lingui-id: 6yZjO1
 #: src/engine/core-modules/application/application.exception.ts
@@ -6517,7 +6517,7 @@ msgstr "Միացման աղյուսակ, որը կապում է հաղորդագ
 #. js-lingui-id: PviVyk
 #: src/engine/core-modules/workspace-invitation/services/workspace-invitation.service.ts
 msgid "Join your team on Twenty"
-msgstr "Միացեք ձեր թիմին Twenty պլատֆորմում"
+msgstr "Միացեք ձեր թիմին Setu պլատֆորմում"
 
 #. js-lingui-id: +KEn4d
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-call-recording-standard-flat-field-metadata.util.ts
@@ -12052,7 +12052,7 @@ msgstr "Այս API բանալուն դեր չի վերագրված։"
 #: src/engine/core-modules/application/application-registration/application-registration.exception.ts
 #: src/engine/core-modules/application/application.exception.ts
 msgid "This app requires a newer version of the Twenty server. Please upgrade your server or use a compatible app version."
-msgstr "Այս հավելվածը պահանջում է Twenty սերվերի ավելի նոր տարբերակ։ Խնդրում ենք թարմացնել ձեր սերվերը կամ օգտագործել համատեղելի հավելվածի տարբերակ։"
+msgstr "Այս հավելվածը պահանջում է Setu սերվերի ավելի նոր տարբերակ։ Խնդրում ենք թարմացնել ձեր սերվերը կամ օգտագործել համատեղելի հավելվածի տարբերակ։"
 
 #. js-lingui-id: y2nks/
 #: src/engine/core-modules/application/application.exception.ts
@@ -14077,7 +14077,7 @@ msgstr "Չորեքշաբթի"
 #. js-lingui-id: TVkCrJ
 #: src/engine/core-modules/email-verification/services/email-verification.service.ts
 msgid "Welcome to Twenty: Please Confirm Your Email"
-msgstr "Բարի գալուստ Twenty․ Խնդրում ենք հաստատել ձեր էլ. հասցեն"
+msgstr "Բարի գալուստ Setu․ Խնդրում ենք հաստատել ձեր էլ. հասցեն"
 
 #. js-lingui-id: lKboI8
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-record-share-standard-flat-field-metadata.util.ts
@@ -15175,12 +15175,12 @@ msgstr "Ձեր թիմի այն անդամը, որը պատասխանատու է 
 #. js-lingui-id: sOfbGC
 #: src/engine/core-modules/billing/reminders/services/billing-reminder.service.ts
 msgid "Your Twenty plan renews soon"
-msgstr "Ձեր Twenty փաթեթի ժամկետը շուտով կթարմացվի"
+msgstr "Ձեր Setu փաթեթի ժամկետը շուտով կթարմացվի"
 
 #. js-lingui-id: qW+K5e
 #: src/engine/core-modules/billing/reminders/services/billing-reminder.service.ts
 msgid "Your Twenty trial is ending soon"
-msgstr "Ձեր Twenty փորձաշրջանը շուտով ավարտվում է"
+msgstr "Ձեր Setu փորձաշրջանը շուտով ավարտվում է"
 
 #. js-lingui-id: ej/tZF
 #: src/engine/core-modules/graphql/hooks/use-graphql-error-handler.hook.ts

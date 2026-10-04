@@ -6517,7 +6517,7 @@ msgstr "Kopplingstabell som länkar meddelandekanalens meddelandeassociationer t
 #. js-lingui-id: PviVyk
 #: src/engine/core-modules/workspace-invitation/services/workspace-invitation.service.ts
 msgid "Join your team on Twenty"
-msgstr "Gå med i ditt team på Twenty"
+msgstr "Gå med i ditt team på Setu"
 
 #. js-lingui-id: +KEn4d
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-call-recording-standard-flat-field-metadata.util.ts
@@ -11093,7 +11093,7 @@ msgstr "Systemfält kan inte uppdateras"
 #. js-lingui-id: aK2k19
 #: src/engine/metadata-modules/index-metadata/services/index-metadata.service.ts
 msgid "System indexes are required for Twenty to work and cannot be deleted."
-msgstr "Systemindex krävs för att Twenty ska fungera och kan inte raderas."
+msgstr "Systemindex krävs för att Setu ska fungera och kan inte raderas."
 
 #. js-lingui-id: /ojawH
 #: src/engine/workspace-manager/workspace-migration/workspace-migration-builder/validators/services/flat-object-metadata-validator.service.ts
@@ -14083,7 +14083,7 @@ msgstr "Onsdag"
 #. js-lingui-id: TVkCrJ
 #: src/engine/core-modules/email-verification/services/email-verification.service.ts
 msgid "Welcome to Twenty: Please Confirm Your Email"
-msgstr "Välkommen till Twenty: Bekräfta din e-post"
+msgstr "Välkommen till Setu: Bekräfta din e-post"
 
 #. js-lingui-id: lKboI8
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-record-share-standard-flat-field-metadata.util.ts

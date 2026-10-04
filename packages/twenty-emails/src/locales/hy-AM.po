@@ -71,7 +71,7 @@ msgstr "Հաստատեք ձեր նոր էլփոստի հասցեն"
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
 msgid "Connect to Twenty"
-msgstr "Միացեք Twenty պլատֆորմին"
+msgstr "Միացեք Setu պլատֆորմին"
 
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
@@ -170,7 +170,7 @@ msgstr "Դրա տվյալները հեռացվել են և այլևս չեն կ�
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx
 msgid "Join your team on Twenty"
-msgstr "Միացեք ձեր թիմին Twenty պլատֆորմում"
+msgstr "Միացեք ձեր թիմին Setu պլատֆորմում"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-subscription-renewing.email.tsx

@@ -6517,7 +6517,7 @@ msgstr "Skakeltabel wat boodskapkanaalboodskapassosiasies aan boodskapvouers kop
 #. js-lingui-id: PviVyk
 #: src/engine/core-modules/workspace-invitation/services/workspace-invitation.service.ts
 msgid "Join your team on Twenty"
-msgstr "Sluit by jou span aan op Twenty"
+msgstr "Sluit by jou span aan op Setu"
 
 #. js-lingui-id: +KEn4d
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-call-recording-standard-flat-field-metadata.util.ts
@@ -11087,7 +11087,7 @@ msgstr "Stelselvelde kan nie bygewerk word nie"
 #. js-lingui-id: aK2k19
 #: src/engine/metadata-modules/index-metadata/services/index-metadata.service.ts
 msgid "System indexes are required for Twenty to work and cannot be deleted."
-msgstr "Stelselindekse is nodig vir Twenty om te werk en kan nie uitgevee word nie."
+msgstr "Stelselindekse is nodig vir Setu om te werk en kan nie uitgevee word nie."
 
 #. js-lingui-id: /ojawH
 #: src/engine/workspace-manager/workspace-migration/workspace-migration-builder/validators/services/flat-object-metadata-validator.service.ts
@@ -14077,7 +14077,7 @@ msgstr "Woensdag"
 #. js-lingui-id: TVkCrJ
 #: src/engine/core-modules/email-verification/services/email-verification.service.ts
 msgid "Welcome to Twenty: Please Confirm Your Email"
-msgstr "Welkom by Twenty: Bevestig Asseblief Jou E-pos"
+msgstr "Welkom by Setu: Bevestig Asseblief Jou E-pos"
 
 #. js-lingui-id: lKboI8
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-record-share-standard-flat-field-metadata.util.ts

@@ -1748,37 +1748,37 @@ msgstr ""
 #. js-lingui-id: FKGcEL
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Add the Twenty MCP server as a remote context server in Zed."
-msgstr "Voeg de Twenty MCP-server toe als externe contextserver in Zed."
+msgstr "Voeg de Setu MCP-server toe als externe contextserver in Zed."
 
 #. js-lingui-id: iA2nHX
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Add the Twenty MCP server from Augment Code settings."
-msgstr "Voeg de Twenty MCP-server toe via de Augment Code-instellingen."
+msgstr "Voeg de Setu MCP-server toe via de Augment Code-instellingen."
 
 #. js-lingui-id: l+NzAk
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
-msgstr "Voeg de Twenty MCP-server toe via de MCP-opdrachten of -instellingen van Raycast."
+msgstr "Voeg de Setu MCP-server toe via de MCP-opdrachten of -instellingen van Raycast."
 
 #. js-lingui-id: j6G/yI
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Add the Twenty MCP server in Gemini CLI settings."
-msgstr "Voeg de Twenty MCP-server toe in de instellingen van Gemini CLI."
+msgstr "Voeg de Setu MCP-server toe in de instellingen van Gemini CLI."
 
 #. js-lingui-id: /OyhlM
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Add the Twenty MCP server to your LibreChat configuration file."
-msgstr "Voeg de Twenty MCP-server toe aan uw LibreChat-configuratiebestand."
+msgstr "Voeg de Setu MCP-server toe aan uw LibreChat-configuratiebestand."
 
 #. js-lingui-id: K0DXoj
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Add the Twenty remote server with LM Studio's install link."
-msgstr "Voeg de Twenty externe server toe met de installatielink van LM Studio."
+msgstr "Voeg de Setu externe server toe met de installatielink van LM Studio."
 
 #. js-lingui-id: BTFMKE
 #: src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx
 msgid "Add these records at your DNS provider. Twenty checks them automatically."
-msgstr "Voeg deze records toe bij je DNS-provider. Twenty controleert ze automatisch."
+msgstr "Voeg deze records toe bij je DNS-provider. Setu controleert ze automatisch."
 
 #. js-lingui-id: 5+ttxv
 #: src/modules/settings/accounts/components/SettingsAccountsBlocklistInput.tsx
@@ -1798,7 +1798,7 @@ msgstr "Onderwerp toevoegen"
 #. js-lingui-id: 4D/zWv
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Add Twenty as a Streamable HTTP extension in Goose."
-msgstr "Voeg Twenty toe als Streamable HTTP-extensie in Goose."
+msgstr "Voeg Setu toe als Streamable HTTP-extensie in Goose."
 
 #. js-lingui-id: XnwceV
 #: src/pages/settings/applications/components/SettingsApplicationRegistrationRedirectURIsInput.tsx
@@ -3473,7 +3473,7 @@ msgstr "Installeer deze app automatisch op iedere nieuw aangemaakte werkruimte"
 #. js-lingui-id: MHsVk5
 #: src/pages/settings/ai/components/SettingsAiModelTiersPreview.tsx
 msgid "Automatically selected by Twenty for this mode."
-msgstr "Automatisch geselecteerd door Twenty voor deze modus."
+msgstr "Automatisch geselecteerd door Setu voor deze modus."
 
 #. js-lingui-id: XFGV21
 #: src/pages/settings/applications/tabs/SettingsApplicationAutoUpdateSection.tsx
@@ -3893,7 +3893,7 @@ msgstr "door {author}"
 #. js-lingui-id: 8Pfllj
 #: src/modules/auth/sign-in-up/components/FooterNote.tsx
 msgid "By using Twenty, you agree to the"
-msgstr "Door gebruik te maken van Twenty, gaat u akkoord met de"
+msgstr "Door gebruik te maken van Setu, gaat u akkoord met de"
 
 #. js-lingui-id: Yx41df
 #: src/modules/auth/sign-in-up/components/FooterNote.tsx
@@ -5240,12 +5240,12 @@ msgstr "Configureer de externe server in de MCP-instellingen van Amazon Q Develo
 #. js-lingui-id: g1/8jH
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Configure the Twenty MCP server manually in Cascade."
-msgstr "Configureer de Twenty MCP-server handmatig in Cascade."
+msgstr "Configureer de Setu MCP-server handmatig in Cascade."
 
 #. js-lingui-id: XiyvRh
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Configure the Twenty MCP server manually in Cline."
-msgstr "Configureer de Twenty MCP-server handmatig in Cline."
+msgstr "Configureer de Setu MCP-server handmatig in Cline."
 
 #. js-lingui-id: qA9AGQ
 #: src/modules/settings/domains/components/SettingsDomainRecords.tsx
@@ -11250,7 +11250,7 @@ msgstr "Hoog"
 #. js-lingui-id: 1ETc0T
 #: src/pages/settings/community/SettingsCommunity.tsx
 msgid "Hire a partner to help you implement and customize Twenty."
-msgstr "Huur een partner in om je te helpen Twenty te implementeren en aan te passen."
+msgstr "Huur een partner in om je te helpen Setu te implementeren en aan te passen."
 
 #. js-lingui-id: i0qMbr
 #: src/modules/navigation/hooks/useMobileNavigationBarItems.ts
@@ -11318,7 +11318,7 @@ msgstr ""
 "npx create-twenty-app@latest my-twenty-app\n"
 "```\n"
 "\n"
-"Zie de [Aan de slag-gids](https://twenty.com/developers/extend/apps/getting-started) voor de volledige rondleiding, en [Apps bouwen](https://twenty.com/developers/extend/apps/building) voor de `defineApplication` / `defineEntity` API's."
+"Zie de [Aan de slag-gids](https://cwistudio.in/extend/apps/getting-started) voor de volledige rondleiding, en [Apps bouwen](https://cwistudio.in/extend/apps/building) voor de `defineApplication` / `defineEntity` API's."
 
 #. js-lingui-id: yY8wAv
 #: src/modules/workflow/workflow-steps/workflow-actions/delay-actions/components/WorkflowEditActionDelay.tsx
@@ -14050,7 +14050,7 @@ msgstr "Modelinformatie"
 #. js-lingui-id: iaurWj
 #: src/pages/settings/ai/components/SettingsAiModelsTab.tsx
 msgid "Model used when you chat with Twenty"
-msgstr "Model dat wordt gebruikt wanneer je met Twenty chat"
+msgstr "Model dat wordt gebruikt wanneer je met Setu chat"
 
 #. js-lingui-id: //nm2/
 #: src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx
@@ -16085,7 +16085,7 @@ msgstr "Een of meer filters verwijzen naar gedeactiveerde of verwijderde velden 
 #. js-lingui-id: 1WZTTl
 #: src/pages/settings/enterprise/SettingsEnterprise.tsx
 msgid "One subscription provides one Organization key that powers one production instance and one potential staging or test instance. To run a staging or test environment, install Twenty on a second server, activate it with this same Organization key, then register that server as a development instance. Development instances unlock premium features without extra billing and do not count toward your production seats."
-msgstr "Eén abonnement levert één Organisatie-sleutel die één productie-instantie en één mogelijke staging- of testinstantie aanstuurt. Om een staging- of testomgeving te draaien, installeert u Twenty op een tweede server, activeert u deze met dezelfde Organisatie-sleutel en registreert u die server vervolgens als ontwikkelinstantie. Ontwikkelinstanties ontgrendelen premiumfuncties zonder extra facturatie en tellen niet mee voor uw productieplaatsen."
+msgstr "Eén abonnement levert één Organisatie-sleutel die één productie-instantie en één mogelijke staging- of testinstantie aanstuurt. Om een staging- of testomgeving te draaien, installeert u Setu op een tweede server, activeert u deze met dezelfde Organisatie-sleutel en registreert u die server vervolgens als ontwikkelinstantie. Ontwikkelinstanties ontgrendelen premiumfuncties zonder extra facturatie en tellen niet mee voor uw productieplaatsen."
 
 #. js-lingui-id: JEtonz
 #: src/modules/settings/event-logs/components/SettingsLogs.tsx
@@ -16293,7 +16293,7 @@ msgstr "Zijpaneel openen"
 #. js-lingui-id: sBd/cl
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Open Twenty's official ChatGPT integration for your workspace."
-msgstr "Open de officiële ChatGPT-integratie van Twenty voor uw werkruimte."
+msgstr "Open de officiële ChatGPT-integratie van Setu voor uw werkruimte."
 
 #. js-lingui-id: tirDue
 #: src/modules/log-console/constants/LogConsoleSources.tsx
@@ -16664,7 +16664,7 @@ msgstr "Paginanaam"
 #. js-lingui-id: NRvxzv
 #: src/pages/not-found/NotFound.tsx
 msgid "Page Not Found | Twenty"
-msgstr "Pagina niet gevonden | Twenty"
+msgstr "Pagina niet gevonden | Setu"
 
 #. js-lingui-id: oIhFvf
 #: src/modules/side-panel/pages/email-block-settings/components/EmailPageStyleSection.tsx
@@ -21575,11 +21575,11 @@ msgstr ""
 "- **Notities & taken**: activiteiten en opvolging\n"
 "- **Werkstromen & dashboards**: automatisering en rapportage\n"
 "\n"
-"Verwijder deze app en de rest van Twenty heeft niets meer om op te steunen.\n"
+"Verwijder deze app en de rest van Setu heeft niets meer om op te steunen.\n"
 "\n"
 "#### Bouw je eigen app\n"
 "\n"
-"Breid Twenty uit met je eigen objecten, velden, logische functies of AI-vaardigheden. Maak de basis voor een nieuwe app aan met één commando:\n"
+"Breid Setu uit met je eigen objecten, velden, logische functies of AI-vaardigheden. Maak de basis voor een nieuwe app aan met één commando:\n"
 "\n"
 "```bash\n"
 "npx create-twenty-app@latest my-twenty-app\n"
@@ -21592,7 +21592,7 @@ msgstr ""
 "yarn twenty dev\n"
 "```\n"
 "\n"
-"Zie de [Aan de slag-gids](https://twenty.com/developers/extend/apps/getting-started) voor de volledige rondleiding, en [Apps bouwen](https://twenty.com/developers/extend/apps/building) voor de `defineApplication` / `defineEntity` API's."
+"Zie de [Aan de slag-gids](https://cwistudio.in/extend/apps/getting-started) voor de volledige rondleiding, en [Apps bouwen](https://cwistudio.in/extend/apps/building) voor de `defineApplication` / `defineEntity` API's."
 
 #. js-lingui-id: VsxjzF
 #: src/modules/page-layout/widgets/call-recording/utils/getCallRecordingStatusDisplayConfiguration.ts
@@ -21724,7 +21724,7 @@ msgstr "De pagina die u zoekt is verdwenen of heeft nooit bestaan. Laten we u te
 #. js-lingui-id: Ya1wb4
 #: src/pages/settings/legal/SettingsLegalDpaNew.tsx
 msgid "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory."
-msgstr "De PDF is vooraf ondertekend door Twenty en wordt namens jouw rechtspersoon door de bevoegde ondertekenaar ondertekend."
+msgstr "De PDF is vooraf ondertekend door Setu en wordt namens jouw rechtspersoon door de bevoegde ondertekenaar ondertekend."
 
 #. js-lingui-id: Ir4tSJ
 #: src/modules/page-layout/widgets/call-recording/utils/getCallRecordingStatusDisplayConfiguration.ts
@@ -22839,7 +22839,7 @@ msgstr "Twenty-velden"
 #. js-lingui-id: pNo8xt
 #: src/pages/settings/ai/components/SettingsAiModelsTab.tsx
 msgid "Twenty fills each level with the best model that meets your requirements"
-msgstr "Twenty vult elk niveau met het beste model dat aan je vereisten voldoet"
+msgstr "Setu vult elk niveau met het beste model dat aan je vereisten voldoet"
 
 #. js-lingui-id: YIjS4q
 #: src/modules/ai/components/SettingsAgentModelCapabilities.tsx
@@ -24662,7 +24662,7 @@ msgstr ""
 #. js-lingui-id: nTuObL
 #: src/pages/auth/SignInUp.tsx
 msgid "Welcome to Twenty"
-msgstr "Welkom bij Twenty"
+msgstr "Welkom bij Setu"
 
 #. js-lingui-id: t8ZvkC
 #: src/modules/onboarding/constants/WelcomeTitleMessage.ts

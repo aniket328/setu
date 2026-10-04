@@ -18,7 +18,7 @@ const HELP_CENTER_REQUEST_RETRIES = 2;
 @Injectable()
 export class SearchHelpCenterTool implements Tool {
   description =
-    'Search Twenty documentation and help center to find information about features, setup, usage, and troubleshooting.';
+    'Search Setu documentation and help center to find information about features, setup, usage, and troubleshooting.';
   inputSchema = SearchHelpCenterInputZodSchema;
 
   constructor(
