@@ -1,0 +1,73 @@
+# Setu (rebranded Twenty) on stepapp-ops-runner. /opt/setu, env in setu.env (0600, Doppler SETU_ENV_B64).
+#   docker compose --env-file setu.env -p setu up -d
+# Loopback only: the Cloudflare tunnel publishes 127.0.0.1:8093 as https://setu.cwistudio.in
+services:
+  server:
+    image: setu:${SETU_RELEASE}
+    restart: always
+    volumes:
+      - server-local-data:/app/packages/twenty-server/.local-storage
+    ports:
+      - "127.0.0.1:8093:3000"
+    environment: &env
+      NODE_PORT: 3000
+      PG_DATABASE_URL: postgres://setu:${PG_DATABASE_PASSWORD}@db:5432/setu
+      SERVER_URL: https://setu.cwistudio.in
+      REDIS_URL: redis://redis:6379
+      APP_SECRET: ${APP_SECRET}
+      STORAGE_TYPE: local
+      IS_MULTIWORKSPACE_ENABLED: "false"
+      IS_WORKSPACE_CREATION_LIMITED_TO_SERVER_ADMINS: "true"
+      IS_BILLING_ENABLED: "false"
+      TELEMETRY_ENABLED: "false"
+      ANALYTICS_ENABLED: "false"
+      IS_CONFIG_VARIABLES_IN_DB_ENABLED: "true"
+      EMAIL_DRIVER: smtp
+      EMAIL_SMTP_HOST: smtp.gmail.com
+      EMAIL_SMTP_PORT: 587
+      EMAIL_SMTP_USER: aniket@cwistudio.in
+      EMAIL_SMTP_PASSWORD: ${EMAIL_SMTP_PASSWORD}
+      EMAIL_FROM_ADDRESS: notify@cwistudio.in
+      EMAIL_FROM_NAME: Setu by CWI Studio
+      EMAIL_SYSTEM_ADDRESS: notify@cwistudio.in
+    depends_on:
+      db: { condition: service_healthy }
+    healthcheck:
+      test: curl --fail http://localhost:3000/healthz
+      interval: 10s
+      timeout: 5s
+      retries: 20
+  worker:
+    image: setu:${SETU_RELEASE}
+    restart: always
+    command: ["yarn", "worker:prod"]
+    volumes:
+      - server-local-data:/app/packages/twenty-server/.local-storage
+    environment:
+      <<: *env
+      DISABLE_DB_MIGRATIONS: "true"
+      DISABLE_CRON_JOBS_REGISTRATION: "true"
+    depends_on:
+      db: { condition: service_healthy }
+      server: { condition: service_healthy }
+  db:
+    image: postgres:16
+    restart: always
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: setu
+      POSTGRES_USER: setu
+      POSTGRES_PASSWORD: ${PG_DATABASE_PASSWORD}
+    healthcheck:
+      test: pg_isready -U setu -h localhost -d setu
+      interval: 5s
+      timeout: 5s
+      retries: 20
+  redis:
+    image: redis:7
+    restart: always
+    command: ["--maxmemory-policy", "noeviction"]
+volumes:
+  db-data:
+  server-local-data:
