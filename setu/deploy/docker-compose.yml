@@ -59,6 +59,9 @@ services:
       POSTGRES_DB: setu
       POSTGRES_USER: setu
       POSTGRES_PASSWORD: ${PG_DATABASE_PASSWORD}
+    # Loopback only: reached over the restricted SSH tunnel (operation-room/runbooks/db-tunnel-access.md).
+    ports:
+      - "127.0.0.1:15432:5432"
     healthcheck:
       test: pg_isready -U setu -h localhost -d setu
       interval: 5s
